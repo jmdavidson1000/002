@@ -1,0 +1,12 @@
+{
+  "name": "002",
+  "version": "1.0.0",
+  "description": "just testing this out. first time coder here, started last week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
